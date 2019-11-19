@@ -38,7 +38,7 @@ const hourRotation = () =>{
         // minsCount == 0;
     // }
 }
-
+//Commented-out sections above create a more "stop-watch" style clock that clears after every full rotation.
 setInterval(secondRotation, 1000);
 
 
