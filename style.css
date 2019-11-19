@@ -1,14 +1,24 @@
 #clock {
+    display: flex;
+    
 }
 
-#clock img {
+#face {
+    display: flex;
+    position: relative;
 }
 
 #hour {
+    display: flex;
+    position: absolute;
 }
 
 #minute {
+    display: flex;
+    position: absolute;
 }
 
 #second {
+    display: flex;
+    position: absolute;
 }
